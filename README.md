@@ -1,8 +1,7 @@
-# Unlost Data Chunks
-## A strange message. A forgotten place. A found device.
+## Unlost Data Chunks
+A recovery log for strange encrypted data fragments found at forgotten locations.
 
 ### Mysterious email
-
 In late 2024, I received a bizarre email from an unknown sender.
 
 The subject was:  
