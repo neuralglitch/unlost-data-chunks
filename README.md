@@ -1,6 +1,5 @@
 # Unlost Data Chunks
 ## A strange message. A forgotten place. A found device.
-##
 
 ### Mysterious email
 
