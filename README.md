@@ -35,12 +35,12 @@ The filesystem is encrypted. No access yet. No idea what’s on it.
 When I tried to mount the stick, I was met with a dead end:  
 `Fatal Error: Encrypted filesystem - Unable to mount without decryption module`
 
-### May 2025: Bunker near Koutsounari Beach, Crete
-Second fragment retrieved from the interior of a decaying World War II-era bunker, half-buried along the island’s 
-southern coast. The structure juts from the earth in a shallow arc — long abandoned, open to the elements, stripped of 
-all interior fixtures. Faded graffiti traces the outside, alongside a carved emblem: a circle marked with the number 
-12, crossed by two tools — possibly hammers or axes. I found an SD card lodged inside a narrow crack near the base of 
-the wall opposite the entrance, partially concealed by debris.
+### May 2025: Decaying bunker at Koutsounari Beach, Crete
+On my next trip, I followed the coordinates to a decaying bunker, half-buried along the island’s southern coast. The 
+structure juts from the beach in a shallow arch and looks like an almost completely submerged sphere — long abandoned, 
+open to the elements, stripped of all interior fixtures. Faded graffiti covers parts of the exterior, alongside a 
+carved emblem: a circle marked with the number 12, crossed by two tools — possibly hammers or axes. I found an SD card 
+lodged in a narrow crack near the base of the wall opposite the entrance, partially concealed by debris.
 
 No label. No visible origin.  
 
